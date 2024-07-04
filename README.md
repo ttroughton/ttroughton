@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tom. (He/Him/His) I am an aspiring programmer and developer set to join Tech Elevator's Full Stack Bootcamp this summer. I'm currently learning JavaScript and will soon be learning Java. Working out and video games are my hobbies and I enjoy movies, heavy metal music and watching pro wrestling and soccer. Any help or advice related to coding or development is
+My name is Tom. (He/Him/His) I am a software development student currently enrolled in Tech Elevator's Full Stack Bootcamp. I'm currently Java, Spring, Springboot, PostgresSQL and jUnit Testing amongst other subjects. Working out and video games are my hobbies and I enjoy movies, heavy metal music and watching pro wrestling and soccer. Any help or advice related to coding or development is
 welcome!
 <!--
 **ttroughton/ttroughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
